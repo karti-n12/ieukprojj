@@ -1,6 +1,6 @@
 # IEUK Log-Analysis Project
 
-This repository contains a simple Python toolset to analyze web server access logs, detect bot-like traffic, and summarize its impact. It was developed as part of the IEUK 2025 Engineering Skills Project.
+A lightweight Python toolkit for analyzing web server access logs, detecting bot‑like traffic, and summarizing its impact—complete with CSV outputs and bot‑detection heuristics.
 
 📂 Repository Structure
 ieuk-projj/
