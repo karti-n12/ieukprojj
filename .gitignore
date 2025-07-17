@@ -1,0 +1,15 @@
+# Python virtual environment
+.venv/
+
+# VS Code settings
+.vscode/
+
+# Log and output CSVs
+*.csv
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# macOS files (if you ever share on Mac)
+.DS_Store
